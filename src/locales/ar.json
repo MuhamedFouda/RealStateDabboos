@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "properties": "العقارات",
+    "clients": "العملاء",
+    "brand": "إستيت آدمن"
+  },
+  "common": {
+    "back": "رجوع",
+    "edit": "تعديل",
+    "viewDetails": "عرض التفاصيل",
+    "editDisabled": "التعديل غير متاح في النسخة التجريبية",
+    "propertyNotFound": "العقار غير موجود",
+    "noResultsTitle": "لا توجد عقارات",
+    "noResultsText": "حاول تعديل البحث أو الفلتر.",
+    "copyright": "© 2024 إستيت آدمن. جميع الحقوق محفوظة.",
+    "search": "بحث",
+    "loading": "جاري التحميل..."
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحباً بعودتك",
+    "recentProperties": "آخر العقارات المضافة",
+    "vsLastMonth": "عن الشهر الماضي",
+    "stats": {
+      "totalProperties": "إجمالي العقارات",
+      "totalClients": "إجمالي العملاء",
+      "newRequests": "طلبات جديدة",
+      "totalSales": "إجمالي المبيعات"
+    },
+    "table": {
+      "property": "العقار",
+      "type": "النوع",
+      "price": "السعر",
+      "status": "الحالة",
+      "dateAdded": "تاريخ الإضافة"
+    }
+  },
+  "properties": {
+    "title": "العقارات",
+    "searchPlaceholder": "ابحث باسم العقار...",
+    "filterLabel": "تصفية حسب الحالة",
+    "types": {
+      "Villa": "فيلا",
+      "Apartment": "شقة",
+      "Office": "مكتب"
+    }
+  },
+  "filter": {
+    "all": "الكل",
+    "available": "متاح",
+    "sold": "مباع",
+    "reserved": "محجوز"
+  },
+  "status": {
+    "available": "متاح",
+    "sold": "مباع",
+    "reserved": "محجوز"
+  },
+  "details": {
+    "title": "تفاصيل العقار",
+    "specifications": "المواصفات",
+    "bedrooms": "غرف النوم",
+    "bathrooms": "الحمامات",
+    "area": "المساحة (م²)",
+    "location": "الموقع",
+    "type": "نوع العقار",
+    "price": "السعر",
+    "status": "الحالة",
+    "description": "الوصف",
+    "gallery": "معرض الصور",
+    "listedOn": "تاريخ الإدراج"
+  },
+  "comingSoon": {
+    "title": "قريباً",
+    "subtitle": "نبني شيئاً رائعاً.",
+    "desc": "قسم العملاء قيد التطوير حالياً. يرجى المراجعة لاحقاً.",
+    "backToDash": "العودة للوحة التحكم"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "personalInfo": "المعلومات الشخصية",
+    "editProfile": "تعديل الملف الشخصي",
+    "settings": "الإعدادات",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "role": "الدور",
+    "agency": "الوكالة",
+    "office": "موقع المكتب",
+    "stats": "إحصائيات الأداء",
+    "activeListings": "العقارات النشطة",
+    "dealsClosed": "الصفقات المغلقة",
+    "commission": "نسبة العمولات",
+    "saveChanges": "حفظ التغييرات"
+  }
+}

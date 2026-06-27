@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "properties": "Properties",
+    "clients": "Clients",
+    "brand": "EstateAdmin"
+  },
+  "common": {
+    "back": "Back",
+    "edit": "Edit",
+    "viewDetails": "View Details",
+    "editDisabled": "Editing not available in demo",
+    "propertyNotFound": "Property not found",
+    "noResultsTitle": "No Properties Found",
+    "noResultsText": "Try adjusting your search or filter.",
+    "copyright": "© 2024 EstateAdmin. All rights reserved.",
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "recentProperties": "Recent Properties Added",
+    "vsLastMonth": "vs last month",
+    "stats": {
+      "totalProperties": "Total Properties",
+      "totalClients": "Total Clients",
+      "newRequests": "New Requests",
+      "totalSales": "Total Sales"
+    },
+    "table": {
+      "property": "Property",
+      "type": "Type",
+      "price": "Price",
+      "status": "Status",
+      "dateAdded": "Date Added"
+    }
+  },
+  "properties": {
+    "title": "Properties",
+    "searchPlaceholder": "Search by property name...",
+    "filterLabel": "Filter by Status",
+    "types": {
+      "Villa": "Villa",
+      "Apartment": "Apartment",
+      "Office": "Office"
+    }
+  },
+  "filter": {
+    "all": "All",
+    "available": "Available",
+    "sold": "Sold",
+    "reserved": "Reserved"
+  },
+  "status": {
+    "available": "Available",
+    "sold": "Sold",
+    "reserved": "Reserved"
+  },
+  "details": {
+    "title": "Property Details",
+    "specifications": "Specifications",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area (sqm)",
+    "location": "Location",
+    "type": "Property Type",
+    "price": "Price",
+    "status": "Status",
+    "description": "Description",
+    "gallery": "Photo Gallery",
+    "listedOn": "Listed On"
+  },
+  "comingSoon": {
+    "title": "Coming Soon",
+    "subtitle": "We're building something amazing.",
+    "desc": "The Clients section is currently under development. Please check back soon.",
+    "backToDash": "Back to Dashboard"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "editProfile": "Edit Profile",
+    "settings": "Settings",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "role": "Role",
+    "agency": "Agency",
+    "office": "Office Location",
+    "stats": "Performance Stats",
+    "activeListings": "Active Listings",
+    "dealsClosed": "Deals Closed",
+    "commission": "Commission Rate",
+    "saveChanges": "Save Changes"
+  }
+}
